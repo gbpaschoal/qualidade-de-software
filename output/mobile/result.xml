@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuites name="vitest tests" tests="3" failures="0" errors="0" time="0.0056435">
-    <testsuite name="src/mobile/mobile.spec.ts" timestamp="2026-08-10T03:13:03.630Z" hostname="DESKTOP-4H6DGUF" tests="3" failures="0" errors="0" skipped="0" time="0.0056435">
-        <testcase classname="src/mobile/mobile.spec.ts" name="Testes Mobile - Gestos e Comportamento &gt; deve adicionar item ao realizar toque no card" time="0.0027684">
+<testsuites name="vitest tests" tests="3" failures="0" errors="0" time="0.0061771">
+    <testsuite name="src/mobile/mobile.spec.ts" timestamp="2026-08-10T22:21:40.735Z" hostname="DESKTOP-4H6DGUF" tests="3" failures="0" errors="0" skipped="0" time="0.0061771">
+        <testcase classname="src/mobile/mobile.spec.ts" name="Testes Mobile - Gestos e Comportamento &gt; deve adicionar item ao realizar toque no card" time="0.0029302">
         </testcase>
-        <testcase classname="src/mobile/mobile.spec.ts" name="Testes Mobile - Gestos e Comportamento &gt; deve carregar mais produtos ao realizar scroll" time="0.0004476">
+        <testcase classname="src/mobile/mobile.spec.ts" name="Testes Mobile - Gestos e Comportamento &gt; deve carregar mais produtos ao realizar scroll" time="0.0005846">
         </testcase>
-        <testcase classname="src/mobile/mobile.spec.ts" name="Testes Mobile - Gestos e Comportamento &gt; deve utilizar teclado apropriado para telefone" time="0.0003171">
+        <testcase classname="src/mobile/mobile.spec.ts" name="Testes Mobile - Gestos e Comportamento &gt; deve utilizar teclado apropriado para telefone" time="0.0003328">
         </testcase>
     </testsuite>
 </testsuites>
