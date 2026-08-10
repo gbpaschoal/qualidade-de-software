@@ -1,5 +1,5 @@
 Qualidade software
-Testes para o projeto raizes do Nordeste.
+Testes para o projeto raizes do Nordeste. A pasta output contem os evidencias dos respectivos testes.
 
 Clone
 Create the directory:
