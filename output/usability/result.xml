@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="vitest tests" tests="3" failures="0" errors="0" time="0.0071631">
+    <testsuite name="src/usability/usability.spec.ts" timestamp="2026-08-10T03:10:22.376Z" hostname="DESKTOP-4H6DGUF" tests="3" failures="0" errors="0" skipped="0" time="0.0071631">
+        <testcase classname="src/usability/usability.spec.ts" name="Testes de Usabilidade e Acessibilidade &gt; botão deve ter área mínima de toque de 48x48dp" time="0.0030869">
+        </testcase>
+        <testcase classname="src/usability/usability.spec.ts" name="Testes de Usabilidade e Acessibilidade &gt; imagem do produto deve possuir descrição acessível" time="0.0006202">
+        </testcase>
+        <testcase classname="src/usability/usability.spec.ts" name="Testes de Usabilidade e Acessibilidade &gt; botão de remoção deve informar ação e contexto" time="0.0006625">
+        </testcase>
+    </testsuite>
+</testsuites>

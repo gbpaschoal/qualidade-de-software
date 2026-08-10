@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="vitest tests" tests="2" failures="0" errors="0" time="0.0065306">
+    <testsuite name="src/regression/regression.spec.ts" timestamp="2026-08-10T03:12:20.495Z" hostname="DESKTOP-4H6DGUF" tests="2" failures="0" errors="0" skipped="0" time="0.0065306">
+        <testcase classname="src/regression/regression.spec.ts" name="Regressão: Regras de Negócio do Checkout de Pedidos &gt; Deve manter o cálculo do total com cupom e taxa de entrega" time="0.0030215">
+        </testcase>
+        <testcase classname="src/regression/regression.spec.ts" name="Regressão: Regras de Negócio do Checkout de Pedidos &gt; Deve impedir pedidos quando a filial estiver fechada" time="0.001362">
+        </testcase>
+    </testsuite>
+</testsuites>

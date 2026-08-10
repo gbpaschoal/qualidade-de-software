@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="vitest tests" tests="3" failures="0" errors="0" time="0.0090254">
+    <testsuite name="src/unit/unit.spec.ts" timestamp="2026-08-10T21:53:16.885Z" hostname="DESKTOP-4H6DGUF" tests="3" failures="0" errors="0" skipped="0" time="0.0090254">
+        <testcase classname="src/unit/unit.spec.ts" name="Pedido &gt; calcula o total com taxa de entrega" time="0.0030491">
+        </testcase>
+        <testcase classname="src/unit/unit.spec.ts" name="Selecionar franquia/unidade &gt; deve associar a unidade disponível ao pedido" time="0.0014168">
+        </testcase>
+        <testcase classname="src/unit/unit.spec.ts" name="Estoque insuficiente &gt; rejeita pedido quando a quantidade solicitada é maior que o estoque" time="0.0017092">
+        </testcase>
+    </testsuite>
+</testsuites>

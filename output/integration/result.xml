@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="vitest tests" tests="3" failures="0" errors="0" time="0.0156677">
+    <testsuite name="src/integration/integration.spec.ts" timestamp="2026-08-10T03:11:36.897Z" hostname="DESKTOP-4H6DGUF" tests="3" failures="0" errors="0" skipped="0" time="0.0156677">
+        <testcase classname="src/integration/integration.spec.ts" name="PaymentService - Testes de Integração &gt; deve processar um pagamento aprovado" time="0.0069009">
+        </testcase>
+        <testcase classname="src/integration/integration.spec.ts" name="PaymentService - Testes de Integração &gt; deve lançar erro quando o pagamento for recusado" time="0.0049038">
+        </testcase>
+        <testcase classname="src/integration/integration.spec.ts" name="PaymentService - Testes de Integração &gt; deve propagar erro quando ocorrer uma falha de rede" time="0.0010189">
+        </testcase>
+    </testsuite>
+</testsuites>

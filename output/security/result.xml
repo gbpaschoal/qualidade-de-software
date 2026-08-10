@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="vitest tests" tests="1" failures="0" errors="0" time="0.0077723">
+    <testsuite name="src/security/security.spec.ts" timestamp="2026-08-10T03:13:32.134Z" hostname="DESKTOP-4H6DGUF" tests="1" failures="0" errors="0" skipped="0" time="0.0077723">
+        <testcase classname="src/security/security.spec.ts" name="Segurança da Validação de Schema (Login) &gt; deve aceitar um payload válido e normalizar o e-mail" time="0.0054766">
+        </testcase>
+    </testsuite>
+</testsuites>

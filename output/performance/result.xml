@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="vitest tests" tests="2" failures="0" errors="0" time="0.0120891">
+    <testsuite name="src/performance/performance.spec.ts" timestamp="2026-08-10T03:13:22.794Z" hostname="DESKTOP-4H6DGUF" tests="2" failures="0" errors="0" skipped="0" time="0.0120891">
+        <testcase classname="src/performance/performance.spec.ts" name="Testes de Desempenho - Processamento de Pedido &gt; deve processar um pedido em menos de 2 segundos" time="0.0032349">
+        </testcase>
+        <testcase classname="src/performance/performance.spec.ts" name="Testes de Desempenho - Processamento de Pedido &gt; deve processar 50 pedidos simultâneos com P95 abaixo de 2 segundos" time="0.0057563">
+        </testcase>
+    </testsuite>
+</testsuites>
